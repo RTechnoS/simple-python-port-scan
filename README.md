@@ -7,7 +7,8 @@ Contoh penerapan modul socket python untuk scan port terbuka (simple)
 4. Wait 
 
 *Nb : Hargai Pembuat
-Copyright © 2020 Rusman TS
+
+# Copyright © 2020 Rusman TS
 
 Instagram : @rusman_toby
 
